@@ -8,5 +8,5 @@ Clone the repository, change directory to the exercise in mind, run using Ruby s
 ```
 git clone https://github.com/chromity/theodinproject-ruby-building-blocks/
 cd theodinproject-ruby-building-blocks
-ruby cc.rb "string" 5
+ruby caesar_cipher.rb "string" 5
 ```
